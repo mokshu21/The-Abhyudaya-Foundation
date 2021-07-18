@@ -1,0 +1,18 @@
+body{
+
+  background-color:#39A2DB;
+}
+input,textarea{
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+form{
+
+    text-align: center;
+}
+.navbar{
+  margin-bottom: 60px;
+}
+section{
+  padding-top:30px;
+}

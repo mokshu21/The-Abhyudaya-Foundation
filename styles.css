@@ -1,0 +1,125 @@
+
+section{
+  margin-top: 0;
+}
+.navbar-brand{
+  margin-right:650px;
+}
+.nav-link:hover{
+  background-color: #39A2DB;
+}
+.nav-link{
+  margin-left:10px;
+}
+.navbar{
+  background-color: #A2DBFA;
+  /* background-image: url("https://s.w-x.co/util/image/w/in-health%20workers.jpg?v=at&w=1280&h=720"); */
+  padding:0;
+}
+.color{
+  color:white;
+}
+.brand{
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.Doctor{
+  width:350px;
+  height:300px;
+  border-radius: 20%;
+  margin-bottom: 15px;
+  position: static;
+  float:left;
+  margin-right:450px;
+
+}
+.mid{
+  text-align: center;
+  color:white;
+  height: 400px;
+  /* weight: 300px; */
+}
+h2
+{
+  line-height:1.1
+}
+
+h3{
+  line-height: 1.2;
+}
+.button:hover{
+  background-color:#A2DBFA;
+}
+.button
+{
+  margin-left: 10px;
+  border: 1px solid black;
+}
+.new{
+  height:400px;
+  background-image: url("https://s.w-x.co/util/image/w/in-health%20workers.jpg?v=at&w=1280&h=720");
+  background-size: cover;
+
+}
+.new1{
+  padding-top:60px;
+  height:400px;
+  background-image: url("https://media.istockphoto.com/photos/doctor-in-hospital-background-with-copy-space-picture-id949812160?k=6&m=949812160&s=170667a&w=0&h=56gVhHZGTf36wrXIKMcIkNNpxQw8ifNHSTgjXRtQUGg=");
+    background-size: cover;
+    color:black;
+}
+.down{
+  height:400px;
+  width:300px;
+}
+.image{
+  border-radius: 10%;
+}
+.down{
+  width:100%;
+  margin-top:50px;
+}
+.height{
+  margin-top: 40px;
+}
+.footer{
+  margin-top:20px;
+  background-color:  #34495E;
+  color:white;
+  padding:20px;
+}
+.first{
+  margin-right:250px;
+}
+.second{
+  margin-right: 300px;
+}
+.third{
+  margin-right: 20px;
+}
+.five{
+  margin-left: 20px;
+}
+.color{
+  color:white;
+}
+.short{
+  height:575px;
+}
+.short1{
+  height:575px;
+}
+.base{
+  text-align: center;
+}
+hr{
+  width:30%;
+  border-top: 5px solid grey;
+  border-style: dotted;
+}
+.tag{
+  margin-bottom: 40px;
+}
+.test{
+  margin-bottom: 100px;
+}
